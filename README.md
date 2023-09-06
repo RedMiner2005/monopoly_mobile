@@ -13,3 +13,5 @@ The players first register their cards, and each player starts with $1500. Then 
 ## I know, it's terrible right now...
 ...which is why I'm building another one from scratch, with an easier drag-and-drop interface instead of players having to tap physical cards, and a better UX in general.
 
+## How do you run this?
+You could import this project into Android Studio. Just make sure the the Flutter and Dart plugins are enabled. Then you may connect your Android device through a USB cable (or enable wireless debugging), and run the project. Alternatively, you could use an Android emulator, or use VS Code instead of Android Studio.
